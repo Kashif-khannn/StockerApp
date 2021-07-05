@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 textStyle: const TextStyle(fontSize: 20),
               ),
               onPressed: increment,
-              child: const Text('Press to increment'),
+              child: const Text('Press to increment 1234'),
             ),
             Text(
               '$count',
